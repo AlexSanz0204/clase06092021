@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\GitHub\clase01POO\clase06092021\ejercicio\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\Alex\Documents\GitHub\clase01POO\clase06092021\ejercicio\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\Alex\Documents\GitHub\clase01POO\clase06092021\ejercicio\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\Alex\Documents\GitHub\clase01POO\clase06092021\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.AssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\clase01POO\clase06092021\ejercicio\ejercicio\obj\Debug\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\GitHub\clase01POO\clase06092021\ejercicio\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\Alex\Documents\GitHub\clase01POO\clase06092021\ejercicio\ejercicio\obj\Debug\ejercicio.pdb
